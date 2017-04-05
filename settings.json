@@ -6,7 +6,6 @@
 {
   // Name your instance!
   "title": "OpenNews Etherpad",
-  "loadTest":true,
 
   // favicon default name
   // alternatively, set up a fully specified Url to your own favicon
