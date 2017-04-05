@@ -21,6 +21,9 @@
   // Store in Heroku env as ETHERPAD_SESSIONKEY
   // "sessionKey" : "",
 
+  // enable load testing with github.com/JohnMcLear/etherpad-load-test
+  "loadTest" : true,
+ 
   /*  
   // Node native SSL support
   // this is disabled by default
