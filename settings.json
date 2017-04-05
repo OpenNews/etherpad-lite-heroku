@@ -6,6 +6,7 @@
 {
   // Name your instance!
   "title": "OpenNews Etherpad",
+  "loadTest":true,
 
   // favicon default name
   // alternatively, set up a fully specified Url to your own favicon
@@ -15,11 +16,6 @@
   // Don't provide these to Heroku!
   // "ip": "0.0.0.0",
   // "port" : 80,
-
-  // Session Key, used for reconnecting user sessions
-  // Set this to a secure string at least 10 characters long.  Do not share this value.
-  // Store in Heroku env as ETHERPAD_SESSIONKEY
-  // "sessionKey" : "",
 
   /*  
   // Node native SSL support
