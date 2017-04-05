@@ -19,6 +19,7 @@ settings = {
   editOnly: true,
   requireSession: true,
   title: '',
+  sessionKey: ENV['ETHERPAD_SESSIONKEY']
 }.merge(JSON.parse(File.read(ENV.fetch('ETHERPAD_SETTINGS'))))
 
 # Write the settings hash out as JSON.
