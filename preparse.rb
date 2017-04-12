@@ -17,7 +17,6 @@ settings = {
   },
   defaultPadText: '',
   editOnly: true,
-  requireSession: false,
   title: '',
 }.merge(JSON.parse(File.read(ENV.fetch('ETHERPAD_SETTINGS'))))
 
