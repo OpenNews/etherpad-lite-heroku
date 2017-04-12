@@ -15,8 +15,6 @@ settings = {
     database: database_uri.path.sub(%r{^/}, ''),
     dbname: database_uri.path.sub(%r{^/}, '')
   },
-  defaultPadText: '',
-  editOnly: true,
   title: '',
 }.merge(JSON.parse(File.read(ENV.fetch('ETHERPAD_SETTINGS'))))
 
