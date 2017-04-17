@@ -29,7 +29,6 @@
           },
 
   */
-  "ssl" : true,
   
   //The Type of the database. You can choose between dirty, postgres, sqlite and mysql
   //You shouldn't use dirty for for anything else than testing or development
