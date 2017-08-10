@@ -1,6 +1,6 @@
 # etherpad-lite for heroku
 
-This is a wrapper of etherpad-lite for Heroku, incorporating the official release from upstream as a submodule. (This will hopefully make it easier to keep current.)
+This is a wrapper to help run an etherpad-lite instance on Heroku. It has been modified to run the [OpenNews fork of `etherpad-lite`](https://github.com/OpenNews/etherpad-lite) as a submodule, instead of the official release.
 
 ## quickstart
 
