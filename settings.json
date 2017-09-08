@@ -1,6 +1,5 @@
 /*
   This file must be valid JSON. But comments are allowed
-
   This file will be supplied to the run script by the heroku Procfile.
 */
 {
