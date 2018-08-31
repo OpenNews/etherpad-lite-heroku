@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/talexand/etherpad-lite",
   "dependencies": {
-    "semver": "^5.4.1"
+    "semver": "^5.4.1",
+    "ep_authornames": "0.1.3"
   }
 }
