@@ -89,14 +89,7 @@
      If you do not uncomment this, /admin will not be available! */
   /*
   "users": {
-    "admin": {
-      "password": "changeme1",
-      "is_admin": true
-    },
-    "user": {
-      "password": "changeme1",
-      "is_admin": false
-    }
+    "admin": {"is_admin": false, "hash": "hashyhash0924rlakdjfp9a8s"}
   },
   */
 
