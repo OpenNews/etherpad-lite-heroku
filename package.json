@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node": ">=6.9.0",
-    "npm": ">=3.10.8"
+    "node": "13.1.0",
+    "npm": "6.12.1"
   },
   "repository": {
     "type": "git",
@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/talexand/etherpad-lite",
   "dependencies": {
-    "semver": "^5.4.1",
-    "bcrypt": "3.0.2",
+    "semver": "^7.2.1",
+    "bcrypt": "4.0.1",
     "ep_author_hover": "0.0.17",
     "ep_scrollto": "0.0.6",
     "ep_hash_auth": "2.0.2",
