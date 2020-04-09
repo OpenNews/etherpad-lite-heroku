@@ -115,6 +115,13 @@
   },
   */
 
+  /*
+   * Expose Etherpad version in the web interface and in the Server http header.
+   *
+   * Do not enable on production machines.
+   */
+  "exposeVersion": true,
+
   /* The log level we are using, can be: DEBUG, INFO, WARN, ERROR */
   "loglevel": "INFO",
   
