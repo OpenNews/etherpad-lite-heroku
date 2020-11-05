@@ -27,9 +27,7 @@
   "dependencies": {
     "semver": "^7.2.1",
     "bcrypt": "4.0.1",
-    "ep_author_hover": "0.0.17",
-    "ep_scrollto": "0.0.6",
-    "ep_hash_auth": "2.0.2",
-    "ep_adminpads": "0.0.12"
+    "ep_author_hover": "0.3.2",
+    "ep_scrollto": "0.0.8"
   }
 }
